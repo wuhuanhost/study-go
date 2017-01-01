@@ -60,7 +60,6 @@ func TestNumber(){
   var u11 uintptr=100;//无符号整型，用于存放一个指针
 
 
-
   var c1 complex64=3.2+12i*12i;//32 位实数和虚数
   var c2 complex128=10000+12332i;//64 位实数和虚数
 
@@ -94,5 +93,5 @@ func TestNumber(){
    var value1 complex64 = 3.2 + 12i 
    value2 := 3.2 + 12i 
    value3 := complex(3.2, 12) 
-   fmt.Println(value1, value2, value3) 
+   fmt.Println(value1, value2, value3)
 }

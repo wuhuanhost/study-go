@@ -1,6 +1,8 @@
-hash: bd4345ac5b9485e3567479dad1829d6f126c00669f600faf77c92c5a97b935ab
-updated: 2016-12-23T18:09:31.3999132+08:00
+hash: 8e1885db2ab173ef90ff9f0b39f4f81adf03af34f8fe234b7868e3cb91e06f76
+updated: 2017-01-01T12:49:34.0948697+08:00
 imports:
 - name: github.com/json-iterator/go
   version: e7ec3988a6a959bfc6ec4deb75522d287bfcf49c
+- name: github.com/slene/margo
+  version: f8dd8b32b7aeb50d10db516b7a13796e0143854a
 testImports: []

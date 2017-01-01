@@ -1,3 +1,4 @@
 package: test
 import:
 - package: github.com/json-iterator/go
+- package: github.com/slene/margo
